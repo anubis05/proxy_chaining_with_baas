@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="1" name="apiusergrid">
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1446140451060</CreatedAt>
+    <CreatedBy>sarthak@apigee.com</CreatedBy>
+    <Description></Description>
+    <DisplayName>apiusergrid</DisplayName>
+    <LastModifiedAt>1447134211192</LastModifiedAt>
+    <LastModifiedBy>sarthak@apigee.com</LastModifiedBy>
+    <Policies>
+        <Policy>Cache-BaaS-Response</Policy>
+        <Policy>add-cors</Policy>
+    </Policies>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+    <validate>false</validate>
+</APIProxy>

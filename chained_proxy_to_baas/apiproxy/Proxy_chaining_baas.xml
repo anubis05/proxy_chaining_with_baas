@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="1" name="Proxy_chaining_baas">
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1447090440794</CreatedAt>
+    <CreatedBy>sarthak@apigee.com</CreatedBy>
+    <Description></Description>
+    <DisplayName>Proxy_chaining_baas</DisplayName>
+    <LastModifiedAt>1447134004024</LastModifiedAt>
+    <LastModifiedBy>sarthak@apigee.com</LastModifiedBy>
+    <Policies/>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+    <validate>false</validate>
+</APIProxy>
