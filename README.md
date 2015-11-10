@@ -10,3 +10,5 @@ Instead this proxy talks to the apiusergrid proxy. apiusergrid is configured to 
 Advantage: There can be multiple proxies which all need to talk to BaaS. The access logic is encapsulated in one proxy.
 
 The apiusergrid proxy has caching built in. So the BaaS data is stored in apiusergrid cache thus improving performance. 
+
+http://grab.by/LSOs
